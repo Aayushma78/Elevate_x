@@ -68,5 +68,4 @@ Project: Elevate X Clothing Store
 Date: 20/04/2024
 
 👕 License
-
 This project is for educational purposes only.
